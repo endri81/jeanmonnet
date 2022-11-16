@@ -1,28 +1,27 @@
-baseURL: https://demo.gethugothemes.com/educenter/examplesite/
-title: Educenter | hugo education template
+baseURL: https://www.jeanmonnet-ista.eu/
+title: ISTA-EU | Innovative STEM teaching practices in Albania towards European Integration
 theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
-disqusShortname: educenter
+disqusShortname: ISTPATEI
 disableLanguages: []
 params:
-  address: 9567 Turner Trace Apt. BC C3G8A4
-  author: Themefisher
+  address: Sulejman Delvina St, Tirana, Albania
+  author: Jean Monnet PTU
   contact_form_action: '#'
   cookies:
     enable: yes
     expire_days: 2
-  description: This is meta description
-  email: info@educenter.com
+  description: This is the website for Innovative STEM teaching practices in Albania towards European Integration under project ERASMUS-JMO-2022-HEI-TCH-RSCH
+  email: istpatei@fimif.edu.al
   google_analitycs_id: ''
   logo: images/logo.png
   map:
     enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
-    map_latitude: '51.5223477'
-    map_longitude: '-0.1622023'
+    map_latitude: '41.32060655896605'
+    map_longitude: '19.804920084552872'
     map_marker: images/marker.png
-  mobile: '+211234565523'
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -64,7 +63,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)
+    copyright: Copyright &copy; 2022 Website mantained by [Jean Monnet PTU Team](https://www.jeanmonnet-ista.eu/)
     home: Home
     languageCode: en-us
     languageName: En
@@ -80,58 +79,40 @@ Languages:
       main:
         - name: Home
           url: about/
-          weight: 1
-        - name: Partners
-          url: course/
-          weight: 1
         - name: Teaching
           url: teacher/
-          weight: 1
         - name: Events
           url: notice/
-          weight: 1
         - name: Publications
           url: scholarship/
-          weight: 1
         - name: Contacts
           url: contact/
-          weight: 1
     weight: 1
   fr:
     contentDir: content/french
-    copyright: Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)
+    copyright: Copyright &copy; 2022 Website mantained by [Jean Monnet PTU Team](https://www.jeanmonnet-ista.eu/)
     home: Accueil
     languageCode: al-al
     languageName: Al
     menu:
+      menu:
       footer:
-        - name: teacher
+        - name: Teaching
           url: teacher/
-        - name: notice
+        - name: Notices
           url: notice/
-        - name: event
+        - name: Events
           url: event/
-        - name: scholarship
-          url: scholarship/
-        - name: research
-          url: research/
+
       main:
-        - name: Kreu
+        - name: Home
           url: about/
-          weight: 1
-        - name: Partnerët
-          url: course/
-          weight: 1
-        - name: Mësimi
+        - name: Teaching
           url: teacher/
-          weight: 1
-        - name: Evente
+        - name: Events
           url: notice/
-          weight: 1
-        - name: Publikime
+        - name: Publications
           url: scholarship/
-          weight: 1
-        - name: Kontakte
+        - name: Contacts
           url: contact/
-          weight: 1
-    weight: 2
+    weight: 1
