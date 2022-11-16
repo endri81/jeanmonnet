@@ -79,14 +79,19 @@ Languages:
       main:
         - name: Home
           url: about/
+          weight: 1
         - name: Teaching
           url: teacher/
+          weight: 1
         - name: Events
           url: notice/
+          weight: 1
         - name: Publications
           url: scholarship/
+          weight: 1
         - name: Contacts
           url: contact/
+          weight: 1
     weight: 1
   fr:
     contentDir: content/french
@@ -95,24 +100,32 @@ Languages:
     languageCode: al-al
     languageName: Al
     menu:
-      menu:
       footer:
-        - name: Teaching
+        - name: teacher
           url: teacher/
-        - name: Notices
+        - name: notice
           url: notice/
-        - name: Events
+        - name: event
           url: event/
-
-      main:
-        - name: Home
-          url: about/
-        - name: Teaching
-          url: teacher/
-        - name: Events
-          url: notice/
-        - name: Publications
+        - name: scholarship
           url: scholarship/
-        - name: Contacts
+        - name: research
+          url: research/
+      main:
+        - name: Kreu
+          url: about/
+          weight: 1
+          weight: 1
+        - name: Mësimi
+          url: teacher/
+          weight: 1
+        - name: Evente
+          url: notice/
+          weight: 1
+        - name: Publikime
+          url: scholarship/
+          weight: 1
+        - name: Kontakte
           url: contact/
-    weight: 1
+          weight: 1
+    weight: 2
