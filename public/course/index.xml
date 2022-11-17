@@ -9,57 +9,39 @@
     <copyright>Copyright &amp;copy; 2022 Website mantained by [Jean Monnet PTU Team](https://www.jeanmonnet-ista.eu/)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.jeanmonnet-ista.eu/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Algorithm</title>
-      <link>https://www.jeanmonnet-ista.eu/course/course-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/course/course-5/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://www.jeanmonnet-ista.eu/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/course/course-3/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://www.jeanmonnet-ista.eu/course/course-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/course/course-4/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Mathematics</title>
+      <title>Gaining experience in automated Electronic Design Systems based on Micro controllers</title>
       <link>https://www.jeanmonnet-ista.eu/course/course-2/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://www.jeanmonnet-ista.eu/course/course-2/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>About serie of seminars The series of seminars “Gaining experience in automated Electronic Design Systems based on Micro controllers focuses on :</description>
     </item>
     
     <item>
-      <title>Photography</title>
+      <title>Introducing EU and best practices and policies on STEM</title>
+      <link>https://www.jeanmonnet-ista.eu/course/course-3/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://www.jeanmonnet-ista.eu/course/course-3/</guid>
+      <description>About Course The intensive course “Introducing EU and best practices and policies on STEM” will introduce for the first time at PUT, EU contribution on the development of scientific research, the EU opportunities, and projects also the guidelines and contribution of EU on STEM and gender equality in Higher Education.</description>
+    </item>
+    
+    <item>
+      <title>The application of algebraic methodology as a foundation for new software technology and digitalization</title>
+      <link>https://www.jeanmonnet-ista.eu/course/course-4/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://www.jeanmonnet-ista.eu/course/course-4/</guid>
+      <description>About Course The intensive course “The application of algebraic methodology as a foundation for new software technology and digitalization”addresses the application of algebraic methodology as a foundation for software technology, and to examine how it can be used to provide practical mathematical alternatives to the ad hoc methods commonly used in software development.</description>
+    </item>
+    
+    <item>
+      <title>TSS concept and role of Big Data inside European Statistical System: Models and applications in Albanian context</title>
       <link>https://www.jeanmonnet-ista.eu/course/course-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://www.jeanmonnet-ista.eu/course/course-1/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Vlogging</title>
-      <link>https://www.jeanmonnet-ista.eu/course/course-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/course/course-6/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>About serie of seminars The series of seminars “TSS concept and role of Big Data inside European Statistical System: Models and applications in Albanian context” (Dr.</description>
     </item>
     
   </channel>

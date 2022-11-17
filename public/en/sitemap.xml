@@ -132,32 +132,6 @@
                 href="https://www.jeanmonnet-ista.eu/tags/ai/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/course/course-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/course/course-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/course/course-5/"
-                />
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/course/course-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/course/course-3/"
-                />
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -182,6 +156,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jeanmonnet-ista.eu/categories/automation-system/"
+                />
+  </url><url>
+    <loc>https://www.jeanmonnet-ista.eu/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.jeanmonnet-ista.eu/fr/notice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jeanmonnet-ista.eu/notice/"
                 />
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/categories/</loc>
@@ -366,6 +353,19 @@
                 href="https://www.jeanmonnet-ista.eu/categories/english-learning/"
                 />
   </url><url>
+    <loc>https://www.jeanmonnet-ista.eu/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.jeanmonnet-ista.eu/fr/course/course-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jeanmonnet-ista.eu/course/course-2/"
+                />
+  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -444,17 +444,17 @@
                 href="https://www.jeanmonnet-ista.eu/research/research-6/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/course/course-4/</loc>
+    <loc>https://www.jeanmonnet-ista.eu/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/course/course-4/"
+                href="https://www.jeanmonnet-ista.eu/fr/course/course-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/course/course-4/"
+                href="https://www.jeanmonnet-ista.eu/course/course-3/"
                 />
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/blog/</loc>
@@ -470,19 +470,6 @@
                 href="https://www.jeanmonnet-ista.eu/blog/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/course/course-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/course/course-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/course/course-2/"
-                />
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/categories/mathmatics-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -494,19 +481,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jeanmonnet-ista.eu/categories/mathmatics-learning/"
-                />
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/notice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/notice/"
                 />
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/course/</loc>
@@ -535,19 +509,6 @@
                 href="https://www.jeanmonnet-ista.eu/research/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/course/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/course/course-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/course/course-1/"
-                />
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/tags/rules/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -574,19 +535,6 @@
                 href="https://www.jeanmonnet-ista.eu/tags/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/notice/notice-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/notice/notice-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/notice/notice-1/"
-                />
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/notice/notice-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -600,69 +548,43 @@
                 href="https://www.jeanmonnet-ista.eu/notice/notice-2/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/notice/notice-3/</loc>
+    <loc>https://www.jeanmonnet-ista.eu/course/course-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/notice/notice-3/"
+                href="https://www.jeanmonnet-ista.eu/fr/course/course-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/notice/notice-3/"
+                href="https://www.jeanmonnet-ista.eu/course/course-4/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/notice/notice-4/</loc>
+    <loc>https://www.jeanmonnet-ista.eu/notice/notice-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/notice/notice-4/"
+                href="https://www.jeanmonnet-ista.eu/fr/notice/notice-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/notice/notice-4/"
+                href="https://www.jeanmonnet-ista.eu/notice/notice-1/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/notice/notice-5/</loc>
+    <loc>https://www.jeanmonnet-ista.eu/course/course-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/notice/notice-5/"
+                href="https://www.jeanmonnet-ista.eu/fr/course/course-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/notice/notice-5/"
-                />
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/notice/notice-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/notice/notice-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/notice/notice-6/"
-                />
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/course/course-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/course/course-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/course/course-6/"
+                href="https://www.jeanmonnet-ista.eu/course/course-1/"
                 />
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/about/</loc>
@@ -773,30 +695,6 @@
                 href="https://www.jeanmonnet-ista.eu/teacher/devid-luis/"
                 />
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/teacher/duis-rio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/teacher/duis-rio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/teacher/duis-rio/"
-                />
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/teacher/jacke-mastio/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/teacher/jacke-mastio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/teacher/jacke-mastio/"
-                />
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -843,18 +741,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jeanmonnet-ista.eu/scholarship/"
-                />
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/teacher/zim-cook/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.jeanmonnet-ista.eu/fr/teacher/zim-cook/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jeanmonnet-ista.eu/teacher/zim-cook/"
                 />
   </url>
 </urlset>

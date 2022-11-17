@@ -4,8 +4,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Innovative STEM teaching practices in Albania towards European Integration
 download_link: '#'
 draft: false
-title: TSS concept and role of Big Data inside European Statistical System:
-Models and applications in Albanian context
+title: TSS concept and role of Big Data inside European Statistical System Models and applications in Albanian context
 type: notice
 ---
 

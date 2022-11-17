@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notice on ISTA-EU | Innovative STEM teaching practices in Albania towards European Integration</title>
+    <title>Calendar on ISTA-EU | Innovative STEM teaching practices in Albania towards European Integration</title>
     <link>https://www.jeanmonnet-ista.eu/notice/</link>
-    <description>Recent content in Notice on ISTA-EU | Innovative STEM teaching practices in Albania towards European Integration</description>
+    <description>Recent content in Calendar on ISTA-EU | Innovative STEM teaching practices in Albania towards European Integration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 Website mantained by [Jean Monnet PTU Team](https://www.jeanmonnet-ista.eu/)</copyright>
     <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.jeanmonnet-ista.eu/notice/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://www.jeanmonnet-ista.eu/notice/notice-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/notice/notice-1/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
     <item>
       <title>Teaching Materials and Testing Methods</title>
       <link>https://www.jeanmonnet-ista.eu/notice/notice-2/</link>
@@ -27,39 +18,12 @@
     </item>
     
     <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://www.jeanmonnet-ista.eu/notice/notice-3/</link>
+      <title>TSS concept and role of Big Data inside European Statistical System Models and applications in Albanian context</title>
+      <link>https://www.jeanmonnet-ista.eu/notice/notice-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://www.jeanmonnet-ista.eu/notice/notice-3/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://www.jeanmonnet-ista.eu/notice/notice-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/notice/notice-4/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://www.jeanmonnet-ista.eu/notice/notice-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/notice/notice-5/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Teaching Materials and Testing Methods</title>
-      <link>https://www.jeanmonnet-ista.eu/notice/notice-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.jeanmonnet-ista.eu/notice/notice-6/</guid>
-      <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://www.jeanmonnet-ista.eu/notice/notice-1/</guid>
+      <description>About serie of seminars The series of seminars “TSS concept and role of Big Data inside European Statistical System: Models and applications in Albanian context” (Dr.</description>
     </item>
     
   </channel>
