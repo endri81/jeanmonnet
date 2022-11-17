@@ -4,14 +4,11 @@ theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
 disqusShortname: ISTPATEI
-disableLanguages: []
+disableLanguages: [yes]
 params:
   address: Sulejman Delvina St, Tirana, Albania
   author: Jean Monnet PTU
   contact_form_action: '#'
-  cookies:
-    enable: yes
-    expire_days: 2
   description: This is the website for Innovative STEM teaching practices in Albania towards European Integration under project ERASMUS-JMO-2022-HEI-TCH-RSCH
   email: istpatei@fimif.edu.al
   google_analitycs_id: ''
@@ -81,27 +78,3 @@ Languages:
           url: contact/
           weight: 1
     weight: 1
-  fr:
-    contentDir: content/french
-    copyright: Copyright &copy; 2022 Website mantained by [Jean Monnet PTU Team](https://www.jeanmonnet-ista.eu/)
-    home: Accueil
-    languageCode: al-al
-    languageName: Al
-    menu:
-      main:
-        - name: Kreu
-          url: about/
-          weight: 1
-        - name: Mësimi
-          url: teacher/
-          weight: 1
-        - name: Evente
-          url: notice/
-          weight: 1
-        - name: Publikime
-          url: scholarship/
-          weight: 1
-        - name: Kontakte
-          url: contact/
-          weight: 1
-    weight: 2
