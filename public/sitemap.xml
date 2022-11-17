@@ -26,61 +26,7 @@
     <loc>https://www.jeanmonnet-ista.eu/event/event-6/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/advice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/ai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/automation/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/automation-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/deep-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/eco/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/eco-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/education/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/education-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/blog-post-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/blog-post-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/blog-post-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/blog-post-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/blog-post-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/english/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/english-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/course/course-2/</loc>
@@ -89,19 +35,7 @@
     <loc>https://www.jeanmonnet-ista.eu/course/course-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/categories/mathmatics-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/rules/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://www.jeanmonnet-ista.eu/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/notice/notice-2/</loc>
@@ -124,6 +58,8 @@
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/author/</loc>
   </url><url>
+    <loc>https://www.jeanmonnet-ista.eu/categories/</loc>
+  </url><url>
     <loc>https://www.jeanmonnet-ista.eu/teacher/clark-malik/</loc>
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/teacher/devid-luis/</loc>
@@ -133,5 +69,7 @@
     <loc>https://www.jeanmonnet-ista.eu/author/mark-dinn/</loc>
   </url><url>
     <loc>https://www.jeanmonnet-ista.eu/teacher/</loc>
+  </url><url>
+    <loc>https://www.jeanmonnet-ista.eu/tags/</loc>
   </url>
 </urlset>

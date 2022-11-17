@@ -2,9 +2,7 @@
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
 date: "2030-03-09T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Innovative STEM teaching practices in Albania towards European Integration
 draft: false
 fee: 'From: $699'
 image: images/events/event-1.jpg

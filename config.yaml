@@ -52,7 +52,6 @@ params:
     - icon: ti-linkedin
       link: '#'
       title: linkedin
-  top_header: yes
 Languages:
   en:
     contentDir: content/english
