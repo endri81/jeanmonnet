@@ -68,14 +68,6 @@ Languages:
     languageCode: en-us
     languageName: En
     menu:
-      footer:
-        - name: Teaching
-          url: teacher/
-        - name: Notices
-          url: notice/
-        - name: Events
-          url: event/
-
       main:
         - name: About
           url: about/
@@ -100,17 +92,6 @@ Languages:
     languageCode: al-al
     languageName: Al
     menu:
-      footer:
-        - name: teacher
-          url: teacher/
-        - name: notice
-          url: notice/
-        - name: event
-          url: event/
-        - name: scholarship
-          url: scholarship/
-        - name: research
-          url: research/
       main:
         - name: Kreu
           url: about/
