@@ -7,7 +7,7 @@ description: Innovative STEM teaching practices in Albania towards European Inte
 draft: false
 duration: 14 hours each year
 image: images/courses/course-1.jpg
-teacher: Endri Raço
+teacher: Endri Raco
 title: TSS concept and role of Big Data inside European Statistical System: Models and applications in Albanian context
 type: course
 weekly: 03 hours
