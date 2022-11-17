@@ -1,22 +1,17 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Innovative STEM teaching practices in Albania towards European Integration
 draft: false
 image: images/about/about-page.jpg
 title: About Us
 ---
 
-## ABOUT OUR JOURNY
+## ABOUT THE PROJECT
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Polytechnic University of Tirana (PUT) is committed to implement study programs and policies aligned with EU Agenda.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+The PUT is trying to be part of European projects and to impact some important disciplines like Physics, Mathematics and Engineering. We
+believe it’s important to efficiently encourage and support STEM skills development, advocating STEM studies and careers, promoting women
+participation in STEM, encouraging teachers’ professional development as well as creating a healthy environment for better communication
+between professors and students. With this in mind, we aim to establish the module “Innovative STEM teaching practices in Albania towards
+European Integration”.
