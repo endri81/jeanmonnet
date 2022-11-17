@@ -3,61 +3,35 @@ apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
 category: Photography
 date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Innovative STEM teaching practices in Albania towards European Integration
 draft: false
-duration: 06 Month
-fee: 'From: $699'
+duration: 14 hours each year
 image: images/courses/course-1.jpg
-teacher: Clark Malik
-title: Photography
+teacher: Endri Raço
+title: TSS concept and role of Big Data inside European Statistical System: Models and applications in Albanian context
 type: course
 weekly: 03 hours
 ---
 
 
-### About Course
+### About serie of seminars
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+The series of seminars “TSS concept and role of Big Data inside European Statistical System:
+Models and applications in Albanian context” (Dr. Endri Raço – 14 hours each year) focuses on:
 
-### Requirements
+1.  The role of big data and data analytics in the policy life-cycle: EU approach
+2.  Data analytics and big data - present and future
+3.  The approach identification and selection of relevant cases: Albania context toward European Model
+4.  Official Statistics: Albania and Europe
+5.  The resources available and their ability to meet European Statistics requirements.
+6.  Statistical Confidentiality and Data Protection: European standards and challenges
+7.  Developing, producing and dissemination European Statistics while respecting scientific independence
+8.  Quality statistics. Adequate tools, procedures and expertise.
+9.  Trusted Smart Statistics: Introduction and change they bring
+10. New data and their impact to official statistics: European example
+11. Availability of new digital data sources, new technologies, and new behaviors in Statistical Offices
+12. Eurostat concept of TSS: Vision and reality
+13. TSS approach using Big Data concept: Benefits and challenges
+14. TSS concept and the discussion related within the European Statistical System
 
-
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+The series of seminars will take place first semester of each year
