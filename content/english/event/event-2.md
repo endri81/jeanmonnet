@@ -1,5 +1,5 @@
 ---
-bg_image: images/events/im1.jpeg
+bg_image: images/events/im1.jpg
 date: "2030-03-09T15:27:17+06:00"
 description: ISTPATEI Project Kick-off meeting
 location: FIMIF, Tirana, Albania
@@ -27,10 +27,10 @@ During the transnational meeting, the participants discussed important details r
 
 ![](images/events/im1.jpg)
 
-![](images/events/im12.jpg)
+![](images/events/im2.jpg)
 
-![](images/events/im22.jpg)
+![](images/events/im3.jpg)
 
-![](images/events/im24.jpg)
+![](images/events/im4.jpg)
 
-![](images/events/im30.jpg)
+![](images/events/im5.jpg)
