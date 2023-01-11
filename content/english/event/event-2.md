@@ -1,9 +1,7 @@
 ---
-apply_url: '#'
-bg_image: images/events/kickoff/im1.jpg
+bg_image: images/events/kickoff/im1.jpeg
 date: "2030-03-09T15:27:17+06:00"
 description: ISTPATEI Project Kick-off meeting
-image: images/events/kickoff/im27.jpg
 location: FIMIF, Tirana, Albania
 publishDate: "2022-12-13"
 title: ISTPATEI Project Kick-off meeting
