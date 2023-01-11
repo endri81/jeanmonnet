@@ -25,12 +25,12 @@ During the transnational meeting, the participants discussed important details r
 
 
 
-![](images/events/im1.jpeg)
+![](images/events/im1.jpg)
 
-![](images/events/im12.jpeg)
+![](images/events/im12.jpg)
 
-![](images/events/im22.jpeg)
+![](images/events/im22.jpg)
 
-![](images/events/im24.jpeg)
+![](images/events/im24.jpg)
 
-![](images/events/im30.jpeg)
+![](images/events/im30.jpg)
