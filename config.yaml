@@ -65,13 +65,13 @@ Languages:
           url: about/
           weight: 1
         - name: Teaching
-          url: teacher/
+          url: course/
           weight: 1
         - name: Events
-          url: notice/
+          url: event/
           weight: 1
-        - name: Publications
-          url: scholarship/
+        - name: News
+          url: notice/
           weight: 1
         - name: Contacts
           url: contact/
