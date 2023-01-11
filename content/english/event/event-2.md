@@ -2,27 +2,27 @@
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
 date: "2030-03-09T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: ISTPATEI Project Kick-off meeting
 draft: false
-fee: 'From: $699'
-image: images/events/event-2.jpg
-location: Dhanmondi, Dhaka
-publishDate: "2019-01-01T00:00:00Z"
+image: images/events/kickoff/im27.jpg
+location: FIMIF, Tirana, Albania
+publishDate: "2022-12-13"
 speaker:
-- designation: Teacher
-  image: images/event-speakers/speaker-1.jpg
-  name: Jack Mastio
-- designation: Teacher
-  image: images/event-speakers/speaker-2.jpg
-  name: John Doe
-- designation: Teacher
-  image: images/event-speakers/speaker-3.jpg
-  name: Randy Luis
-- designation: Teacher
-  image: images/event-speakers/speaker-4.jpg
-  name: Alfred Jin
+- designation: Kick-off meeting
+  image: images/events/kickoff/im1.jpg
+  name: Kick-off meeting
+- designation: Kick-off meeting
+  image: images/events/kickoff/im12.jpg
+  name: Kick-off meeting
+- designation: Kick-off meeting
+  image: images/events/kickoff/im22.jpg
+  name: Kick-off meeting
+- designation: Kick-off meeting
+  image: images/events/kickoff/im24.jpg
+  name: Kick-off meeting
+- designation: Kick-off meeting
+  image: images/events/kickoff/im30.jpg
+  name: Kick-off meeting  
 title: Social media and behavior economics conference
 type: event
 ---
