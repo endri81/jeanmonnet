@@ -67,10 +67,10 @@ Languages:
         - name: Teaching
           url: course/
           weight: 1
-        - name: Events
+        - name: News
           url: event/
           weight: 1
-        - name: News
+        - name: Upcoming
           url: notice/
           weight: 1
         - name: Contacts
