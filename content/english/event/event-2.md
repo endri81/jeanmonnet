@@ -1,11 +1,7 @@
 ---
-bg_image: images/events/im1.jpg
-date: "2030-03-09T15:27:17+06:00"
-description: ISTPATEI Project Kick-off meeting
-location: FIMIF, Tirana, Albania
+date: "2022-13-12"
 publishDate: "2022-12-13"
 title: ISTPATEI Project Kick-off meeting
-type: event
 ---
 
 ### Kick-off meeting 
@@ -25,12 +21,12 @@ During the transnational meeting, the participants discussed important details r
 
 
 
-![](images/events/im1.jpg)
+![](/images/events/im1.jpg)
 
-![](images/events/im2.jpg)
+![](/images/events/im2.jpg)
 
-![](images/events/im3.jpg)
+![](/images/events/im3.jpg)
 
-![](images/events/im4.jpg)
+![](/images/events/im4.jpg)
 
-![](images/events/im5.jpg)
+![](/images/events/im5.jpg)
