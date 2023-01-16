@@ -1,49 +1,20 @@
 ---
-bg_image: images/backgrounds/page-title.jpg
-bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
-  ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
-  culpa aspernatur. Error placeat iusto officia voluptas quae.
+bg_image: images/teachers/joan.jpeg
+bio: Dr. Joan Jani works as a lecturer of Computational Physics in Polytechnic University of Tirana. He holds an Bsc. in Physics from Aristotle University of Thessaloniki, Greece and in Msc in Telecommunication Engineering from the University of Athens, Greece. He obtained his PhD in Nonlinear Chaotic systems in 2015 from the Polytechnic University of Tirana. His research interests are in the field of Computational Physics, Chaos Theory and Python Programming. His work has been presentet in international journals and has participated in national and international conferences.  He is an active member of the civil society and has a history of  involment in several projects which have financed by Leviz Albania, Konrad Adenauer Stiftung and USAid.
 contact:
 - icon: ti-email
-  link: mailto:clarkmalik@email.com
-  name: clarkmalik@email.com
+  link: mailto:j.jani@fimif.edu.al
+  name: j.jani@fimif.edu.al
 - icon: ti-mobile
-  link: tel:+120345876
-  name: +12 034 5876
+  link: tel:+355 69 697 3961
+  name: +355 69 697 3961
 - icon: ti-facebook
   link: '#'
-  name: Clark Malik
-- icon: ti-twitter-alt
-  link: '#'
-  name: Clark Malik
-- icon: ti-skype
-  link: '#'
-  name: Clark Malik
-- icon: ti-world
-  link: '#'
-  name: clarkmalik.com
-- icon: ti-location-pin
-  link: '#'
-  name: 1313 Boulevard Cremazie,Quebec
-course: Vlogging
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
-draft: false
-image: images/teachers/teacher-2.jpg
-interest:
-- Computer Networking
-- Computer Security
-- Human Computer Interfacing
-title: Alex Rook
+  name: Joan Jani
+title: Joan Jani
 type: teacher
 ---
 
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Dr. Joan Jani works as a lecturer of Computational Physics in Polytechnic University of Tirana. He holds an Bsc. in Physics from Aristotle University of Thessaloniki, Greece and in Msc in Telecommunication Engineering from the University of Athens, Greece. He obtained his PhD in Nonlinear Chaotic systems in 2015 from the Polytechnic University of Tirana. His research interests are in the field of Computational Physics, Chaos Theory and Python Programming. His work has been presentet in international journals and has participated in national and international conferences.  He is an active member of the civil society and has a history of  involment in several projects which have financed by Leviz Albania, Konrad Adenauer Stiftung and USAid.
