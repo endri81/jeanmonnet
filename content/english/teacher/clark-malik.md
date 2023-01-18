@@ -36,8 +36,7 @@ contact:
   - icon: ti-location-pin
     link: "#"
     name: S. Delvina St, Tirana 1001,ALBANIA
-course: Gaining experience in automated Electronic Design Systems based on Micro
-  controllers
+course: Big Data
 draft: false
 image: images/teachers/endri.jpg
 interest:
