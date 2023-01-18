@@ -70,8 +70,8 @@ Languages:
         - name: News
           url: event/
           weight: 1
-        - name: Upcoming
-          url: notice/
+        - name: Teachers
+          url: teacher/
           weight: 1
         - name: Contacts
           url: contact/
