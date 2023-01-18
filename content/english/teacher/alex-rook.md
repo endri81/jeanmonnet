@@ -29,15 +29,14 @@ contact:
   - icon: ti-location-pin
     link: "#"
     name: S. Delvina St, Tirana 1001,ALBANIA
-course: Gaining experience in automated Electronic Design Systems based on Micro controllers
-description: The series of seminars “Gaining experience in automated Electronic Design Systems based on Micro controllers focuses on 
-Arduino programming
-IR sensors for measuring distance
-Temperature sensor and the connection with the Arduino micro-controller
-Python programming Language
-Integration of Python with the Arduino micro-controller
-Creating a web page with data acq
-The series of seminars will take place first semester of each year
+course: Gaining experience in automated Electronic Design Systems based on Micro
+  controllers
+description: The series of seminars “Gaining experience in automated Electronic
+  Design Systems based on Micro controllers" focuses on Arduino programming, IR
+  sensors for measuring distance, Temperature sensor and the connection with the
+  Arduino microcontroller, Python programming Language, Integration of Python
+  with the Arduino microcontroller, Creating a web page with data acq, The
+  series of seminars will take place first semester of each year
 draft: false
 image: images/teachers/joan.jpeg
 interest:
@@ -46,8 +45,9 @@ interest:
   - Human Computer Interfacing
 title: Alex Rook
 type: teacher
-
 ---
+
+
 
 
 
