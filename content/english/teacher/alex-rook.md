@@ -40,10 +40,10 @@ description: The series of seminars “Gaining experience in automated Electroni
 draft: false
 image: images/teachers/joan.jpeg
 interest:
-  - Computer Networking
-  - Computer Security
-  - Human Computer Interfacing
-title: Alex Rook
+  - Computational Physics
+  - Chaos Theory
+  - Python Programming
+title: Joan Jani
 type: teacher
 ---
 
