@@ -41,9 +41,10 @@ course: Gaining experience in automated Electronic Design Systems based on Micro
 draft: false
 image: images/teachers/endri.jpg
 interest:
-  - Computational Physics
-  - Chaos Theory
-  - Python Programming
+  - Data Science
+  - Applied Statistics
+  - Machine Learning
+  - Data Visualisation
 title: Endri Raco
 type: teacher
 
