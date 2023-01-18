@@ -37,7 +37,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
   eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim
   veniam, quis nostrud.
 draft: false
-image: images/teachers/teacher-2.jpg
+image: images/teachers/joan.jpeg
 interest:
   - Computer Networking
   - Computer Security
