@@ -1,7 +1,7 @@
 ---
 date: "2022-12-20"
 publishDate: "2022-12-20"
-title: Gaining experience in automated Electronic Design Systems based on Micro controllers Seminar held in PTU
+title: Course Starting
 ---
 
 ### Course “Gaining experience in automated Electronic Design Systems based on Micro controllers" starting
