@@ -1,41 +1,55 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-bio: The series of seminars “Gaining experience in automated Electronic
-  Design Systems based on Micro controllers" focuses on Arduino programming, IR
-  sensors for measuring distance, Temperature sensor and the connection with the
-  Arduino microcontroller, Python programming Language, Integration of Python
-  with the Arduino microcontroller, Creating a web page with data acq, The
-  series of seminars will take place first semester of each year
+bio: The series of seminars “TSS concept and role of Big Data inside European
+  Statistical System, Models and applications in Albanian context" focuses on
+  the role of big data and data analytics in the policy life-cycle. Data
+  analytics and big data - present and future, the approach identification and
+  selection of relevant cases, Albania context toward European Model, Official
+  Statistics, the resources available and their ability to meet European
+  Statistics requirements. Statistical Confidentiality and Data Protection,
+  European standards and challenges. Developing, producing and dissemination
+  European Statistics while respecting scientific independence. Quality
+  statistics. Adequate tools, procedures and expertise. Trusted Smart
+  Statistics, introduction and change they bring. New data and their impact to
+  official statistics, European example.Availability of new digital data
+  sources, new technologies, and new behaviors in Statistical Offices. Eurostat
+  concept of TSS, vision and reality. TSS approach using Big Data concept,
+  benefits and challenges. TSS concept and the discussion related within the
+  European Statistical System. The series of seminars will take place first
+  semester of each year
 contact:
   - icon: ti-email
-    link: mailto:j.jani@fimif.edu.al
-    name: j.jani@fimif.edu.al
+    link: mailto:e.raco@fimif.edu.al
+    name: e.raco@fimif.edu.al
   - icon: ti-mobile
-    link: tel:+355696973961
-    name: +355 69 697 3961
+    link: tel:+355682061988
+    name: +355 68 206 1988
   - icon: ti-facebook
     link: "#"
-    name: Joan Jani
+    name: Endri Raco
   - icon: ti-twitter-alt
     link: "#"
-    name: Joan Jani
+    name: Endri Raco
   - icon: ti-skype
     link: "#"
-    name: Joan Jani
+    name: Endri Raco
   - icon: ti-location-pin
     link: "#"
     name: S. Delvina St, Tirana 1001,ALBANIA
 course: Gaining experience in automated Electronic Design Systems based on Micro
   controllers
 draft: false
-image: images/teachers/joan.jpeg
+image: images/teachers/endri.jpg
 interest:
   - Computational Physics
   - Chaos Theory
   - Python Programming
-title: Joan Jani
+title: Endri Raco
 type: teacher
+
 ---
+
+
 
 
 
@@ -43,6 +57,15 @@ type: teacher
 
 ### About Me
 
-Dr. Joan Jani works as a lecturer of Computational Physics in
-Polytechnic University of Tirana. He holds an Bsc. in Physics from
-Aristotle University of Thessaloniki, Greece and in Msc in Telecommunication Engineering from the University of Athens, Greece. He obtained his PhD in Nonlinear Chaotic systems in 2015 from the Polytechnic University of Tirana. His research interests are in the field of Computational Physics, Chaos Theory and Python Programming. His work has been presentet in international journals and has participated in national and international conferences.  He is an active member of the civil society and has a history of  involment in several projects which have financed by Leviz Albania, Konrad Adenauer Stiftung and USAid.
+Dr. Endri Raco works as a lecturer of Applied Statistics in Tirana Polytechnic University. He holds a MSc in
+Computer Science and Software Engineering as well as a MSc in System Analysis and Design from Peter the
+Great St. Petersburg Polytechnic University. He had his PhD in Statistics from Tirana Polytechnic University
+and his interests include R Programming, Data Analysis, and Data Science.
+For more than 10 years now, Endri has implemented and managed integration of many data systems, such
+Albanian Names Database, first interactive web application based in R for Albanian Institute of Statistics,
+Data Collection Platform of Social Housing indicators in Albanian Municipalities For the Ministry of
+Territorial Planning , Data Collection platform for students of Albanian School of Magistrate and many other
+systems.
+For distinguished merits, Endri has been awarded from BrainGain programme, a programme of support by
+UNDP and Albanian Government for excellent students coming from abroad.
+Endri worked as consultant for UN agencies (UNDP, UNFPA, UN Women) as well for SIDA, Swiss Contact etc.
