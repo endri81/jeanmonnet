@@ -1,11 +1,6 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-bio: The series of seminars “Gaining experience in automated Electronic
-  Design Systems based on Micro controllers" focuses on Arduino programming, IR
-  sensors for measuring distance, Temperature sensor and the connection with the
-  Arduino microcontroller, Python programming Language, Integration of Python
-  with the Arduino microcontroller, Creating a web page with data acq, The
-  series of seminars will take place first semester of each year.
+bio: The intensive course “The application of algebraic methodology as a foundation for new software technology and digitalization”addresses the application of algebraic methodology as a foundation for software technology, and to examine how it can be used to provide practical mathematical alternatives to the ad hoc methods commonly used in software development. In particular course takes in consideration EU best practices and advances on using this methodology in data security and high-security cryptography for the future generation.
 contact:
   - icon: ti-email
     link: mailto:k.hila@fimif.edu.al
@@ -27,7 +22,7 @@ contact:
     name: S. Delvina St, Tirana 1001,ALBANIA
 course: Algebraic Methodology
 draft: false
-image: images/teachers/kosta.jpeg
+image: images/teachers/kosta.jpg
 interest:
   - Algebraic structures theory
   - Fuzzy rough soft sets
