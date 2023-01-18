@@ -6,9 +6,9 @@ bio: Dr. Joan Jani works as a lecturer of Computational Physics in Polytechnic
   University of Athens, Greece. He obtained his PhD in Nonlinear Chaotic systems
   in 2015 from the Polytechnic University of Tirana. His research interests are
   in the field of Computational Physics, Chaos Theory and Python Programming.
-  His work has been presentet in international journals and has participated in
+  His work has been presented in international journals and has participated in
   national and international conferences.  He is an active member of the civil
-  society and has a history of  involment in several projects which have
+  society and has a history of  involvement in several projects which have
   financed by Leviz Albania, Konrad Adenauer Stiftung and USAid.
 contact:
   - icon: ti-email
