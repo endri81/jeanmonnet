@@ -12,30 +12,32 @@ bio: Dr. Joan Jani works as a lecturer of Computational Physics in Polytechnic
   financed by Leviz Albania, Konrad Adenauer Stiftung and USAid.
 contact:
   - icon: ti-email
-    link: mailto:clarkmalik@email.com
-    name: clarkmalik@email.com
+    link: mailto:j.jani@fimif.edu.al
+    name: j.jani@fimif.edu.al
   - icon: ti-mobile
-    link: tel:+120345876
-    name: +12 034 5876
+    link: tel:+355696973961
+    name: +355 69 697 3961
   - icon: ti-facebook
     link: "#"
-    name: Clark Malik
+    name: Joan Jani
   - icon: ti-twitter-alt
     link: "#"
-    name: Clark Malik
+    name: Joan Jani
   - icon: ti-skype
     link: "#"
-    name: Clark Malik
-  - icon: ti-world
-    link: "#"
-    name: clarkmalik.com
+    name: Joan Jani
   - icon: ti-location-pin
     link: "#"
-    name: 1313 Boulevard Cremazie,Quebec
-course: Vlogging
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-  eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim
-  veniam, quis nostrud.
+    name: S. Delvina St, Tirana 1001,ALBANIA
+course: Gaining experience in automated Electronic Design Systems based on Micro controllers
+description: The series of seminars “Gaining experience in automated Electronic Design Systems based on Micro controllers focuses on 
+Arduino programming
+IR sensors for measuring distance
+Temperature sensor and the connection with the Arduino micro-controller
+Python programming Language
+Integration of Python with the Arduino micro-controller
+Creating a web page with data acq
+The series of seminars will take place first semester of each year
 draft: false
 image: images/teachers/joan.jpeg
 interest:
