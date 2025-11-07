@@ -67,11 +67,11 @@ Languages:
         - name: Teaching
           url: course/
           weight: 1
-        - name: News
+        - name: Events
           url: event/
           weight: 1
-        - name: Teachers
-          url: teacher/
+        - name: Lectures
+          url: lectures/
           weight: 1
         - name: Contacts
           url: contact/
