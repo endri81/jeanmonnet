@@ -71,7 +71,7 @@ Languages:
           url: event/
           weight: 1
         - name: Lecturers
-          url: teachers/
+          url: teacher/
           weight: 1
         - name: Contacts
           url: contact/
