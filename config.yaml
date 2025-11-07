@@ -70,8 +70,8 @@ Languages:
         - name: Events
           url: event/
           weight: 1
-        - name: Lectures
-          url: lectures/
+        - name: Lecturers
+          url: lecturers/
           weight: 1
         - name: Contacts
           url: contact/
