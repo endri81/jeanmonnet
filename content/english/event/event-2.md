@@ -1,6 +1,6 @@
 ---
-date: "2022-22-11"
-publishDate: "2022-22-11"
+date: "2022-11-22"
+publishDate: "2022-11-22"
 title: ISTA-EU Project Kick-off meeting
 ---
 
