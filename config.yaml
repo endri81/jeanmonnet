@@ -76,4 +76,7 @@ Languages:
         - name: Contacts
           url: contact/
           weight: 1
+        - name: Resources
+          url: resources/
+          weight: 1
     weight: 1
