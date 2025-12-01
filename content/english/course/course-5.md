@@ -4,7 +4,7 @@ bg_image: images/backgrounds/page-title.jpg
 date: "2019-07-06T15:27:17+06:00"
 description: Innovative STEM teaching practices in Albania towards European Integration
 draft: false
-duration: 10 hours each year
+duration: 
 image: images/courses/course-1.jpg
 teacher: Joan Jani, Endri Raço
 title: "The New Normal: STEM and Digital Transformation"
