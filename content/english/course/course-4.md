@@ -15,8 +15,4 @@ weekly: 03 hours
 
 ### About Course
 
-The intensive course “The application of algebraic methodology as a foundation for new software
-technology and digitalization”addresses the application of algebraic methodology as a foundation for software technology, and to examine how it can be used
-to provide practical mathematical alternatives to the ad hoc methods commonly used in software
-development. In particular course takes in consideration EU best practices and advances on using
-this methodology in data security and high-security cryptography for the future generation
+2.	During November, the intensive course “The application of algebraic methodology as a foundation for new software technology and digitalization” was organized with the participation of PUT students and three professors: Endri Raço, Joan Jani, and Kostaq Hila. 
