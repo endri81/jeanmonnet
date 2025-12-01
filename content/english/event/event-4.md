@@ -1,44 +1,23 @@
 ---
-date: "2022-12-20"
-publishDate: "2022-12-20"
-title: Course Starting
+bg_image: images/backgrounds/page-title.jpg
+date: "2024-10-10"
+publishDate: "2024-10-10"
+description: Annual event presenting the Jean Monnet Module to wider audience
+draft: false
+image: images/events/event-4.jpg
+location: Faculty of Mathematical Engineering and Physical Engineering, Tirana
+title: "Erasmus and Week Info Day"
+type: event
 ---
 
-### Course “Gaining experience in automated Electronic Design Systems based on Micro controllers" starting
+### About the Event
 
-Course “Gaining experience in automated Electronic Design Systems based on Micro controllers" started on on Tuesday 20 December at the headquarters of Polytechnic University of Tirane within frame of Innovative STEM teaching practices in Albania towards European Integration project . 
+During the Erasmus and Week Info Day events organized by the Faculty of Mathematical Engineering and Physical Engineering each October, the Jean Monnet team presented the module to a wider audience. These annual information sessions serve to promote European educational opportunities and highlight the importance of STEM education within the framework of EU integration.
 
-The seminar started on Tuesday 20 December and was the first to be organised at the PTU since project was officially launched. The course was conducted by Dr. Joan Jani.
+## Objectives
 
-## About the course
-The series of seminars “Gaining experience in automated Electronic Design Systems based on Micro controllers focuses on :
+The event aimed to inform students, faculty, and the broader academic community about the opportunities offered by the Erasmus+ program and the Jean Monnet Module, while promoting the importance of STEM education in the context of Albania's European integration.
 
-  - Arduino programming
+![Erasmus Week Info Day](/images/events/event-4a.jpg)
 
-  - IR sensors for measuring distance
-
-  - Temperature sensor and the connection with the Arduino micro-controller
-
-  - Python programming Language
-
-  - Integration of Python with the Arduino micro-controller
-
-  - Creating a web page with data acq
-
-## Objectives of the ISTA-EU project
-The project aims at introducing EU studies at PUT. Promote teaching and research in the EU impact on STEM. Foster the dialogue between the academic world and society, including local and state level policymakers, civil servants, civil society actors, representatives of the different levels of education and of the media. Promote STEM and EU impact on STEM in Albania.
-
-## About the event
-
-The library of PTU was used for this course and in total 30 participants attended the course, 12 of whom were from graduate courses and 18 of them were from undergraduates. Those attending were introduced with project objectives, European approach and goals  and started to programm with Arduino.
-
-
-![](/images/events/joanfirstsem/im1.jpeg)
-
-![](/images/events/joanfirstsem/im2.jpeg)
-
-![](/images/events/joanfirstsem/im3.jpeg)
-
-![](/images/events/joanfirstsem/im4.jpeg)
-
-![](/images/events/joanfirstsem/im5.jpeg)
+![Erasmus Week Info Day](/images/events/event-4b.jpg)

@@ -1,17 +1,31 @@
 ---
-apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-date: "2024-10-15T09:00:00+02:00"
-description: Women participation in STEM discussion during Erasmus Days
+date: "2025-10-15"
+publishDate: "2025-10-15"
+description: Final workshop presenting module results and STEM research
 draft: false
-image: images/events/event-3.jpg
+image: images/events/event-1.jpg
 location: Faculty of Mathematical Engineering and Physical Engineering, Tirana
-title: "ScienceFemSalon"
+title: "STEM Skills for a Future"
 type: event
 ---
 
-### About the Event
+### About the Workshop
 
-ScienceFemSalon was organized with the participation of special guests including Antigona Uka, founder and executive director at Kosovo Center for Digital Education (KCD), who specializes in higher education policy. She introduced the opportunities and challenges of women's participation in STEM fields.
+The final workshop "STEM Skills for a Future" was held in October 2025 at the Faculty of Mathematical Engineering and Physical Engineering with the participation of professors, the Dean, the Vice Dean, the Head of the Physics Engineering Department, and students.
 
-In 2024, during Erasmus Days, the Vice Rector of the Faculty, Prof. Shehu, also addressed these important issues regarding women in STEM in her presentation, highlighting ongoing efforts to promote gender equality in scientific and technical education.
+The initiative contributes not only to presenting the results of the module, but also to showcasing research on STEM and EU-related issues developed throughout the project duration.
+
+## Objectives
+
+This concluding event marked the successful completion of the Jean Monnet Module, highlighting the achievements in promoting innovative STEM teaching practices and EU integration in Albania's higher education system.
+
+## Participants
+
+The workshop brought together key stakeholders including:
+
+- Faculty professors and researchers
+- Dean of the Faculty
+- Vice Dean
+- Head of the Physics Engineering Department
+- Graduate and undergraduate students
