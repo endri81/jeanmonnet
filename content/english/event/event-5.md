@@ -1,10 +1,10 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: ""
-publishDate: ""
+date: "2025-10-15"
+publishDate: "2025-10-15"
 description: Final workshop presenting module results and STEM research
 draft: false
-image: images/events/event-1.jpg
+image: images/events/workshop.jpg
 location: Faculty of Mathematical Engineering and Physical Engineering, Tirana
 title: "STEM Skills for a Future"
 type: event
@@ -29,3 +29,5 @@ The workshop brought together key stakeholders including:
 - Vice Dean
 - Head of the Physics Engineering Department
 - Graduate and undergraduate students
+
+![STEM Skills for a Future Workshop](/images/events/workshop.jpg)
