@@ -1,10 +1,10 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: ""
-publishDate: ""
+date: "2024-10-15"
+publishDate: "2024-10-15"
 description: Women participation in STEM discussion during Erasmus Days
 draft: false
-image: images/events/event-3.jpg
+image: images/events/science_fem1.jpg
 location: Faculty of Mathematical Engineering and Physical Engineering, Tirana
 title: "ScienceFemSalon"
 type: event
@@ -19,3 +19,9 @@ In 2024, during Erasmus Days, the Vice Rector of the Faculty, Prof. Shehu, also 
 ## Objectives
 
 The event aimed to raise awareness about the importance of women's participation in STEM fields and to discuss strategies for promoting gender equality in scientific and technical education within the framework of EU integration.
+
+![ScienceFemSalon](/images/events/science_fem1.jpg)
+
+![ScienceFemSalon](/images/events/science_fem2.jpg)
+
+![ScienceFemSalon](/images/events/science_fem3.jpg)
