@@ -1,10 +1,10 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: ""
-publishDate: ""
+date: "2024-10-10"
+publishDate: "2024-10-10"
 description: Annual event presenting the Jean Monnet Module to wider audience
 draft: false
-image: images/events/event-4.jpg
+image: images/events/erasmus_and_week_info_day.jpg
 location: Faculty of Mathematical Engineering and Physical Engineering, Tirana
 title: "Erasmus and Week Info Day"
 type: event
@@ -18,6 +18,6 @@ During the Erasmus and Week Info Day events organized by the Faculty of Mathemat
 
 The event aimed to inform students, faculty, and the broader academic community about the opportunities offered by the Erasmus+ program and the Jean Monnet Module, while promoting the importance of STEM education in the context of Albania's European integration.
 
-![Erasmus Week Info Day](/images/events/event-4a.jpg)
+![Erasmus Week Info Day](/images/events/erasmus_and_week_info_day.jpg)
 
-![Erasmus Week Info Day](/images/events/event-4b.jpg)
+![Erasmus Week Info Day](/images/events/erasmus_and_week_info_day2.jpg)
