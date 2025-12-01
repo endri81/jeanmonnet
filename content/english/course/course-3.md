@@ -15,7 +15,4 @@ weekly: 03 hours
 
 ### About Course
 
-The intensive course “Introducing EU and best practices and policies on STEM”  will introduce for the first time at PUT, EU contribution on the
-development of scientific research, the EU opportunities, and projects also the guidelines and
-contribution of EU on STEM and gender equality in Higher
-Education.
+4.	The intensive course “Introducing EU and best practices and policies on STEM” held each February was delivered by Prof. Meljana Bregu. It marked a fruitful collaboration between science and the humanities and introduced PUT students to the European Union’s contribution to the advancement of scientific research. 
