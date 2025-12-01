@@ -1,7 +1,7 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: "2025-10-15"
-publishDate: "2025-10-15"
+date: ""
+publishDate: ""
 description: Final workshop presenting module results and STEM research
 draft: false
 image: images/events/event-1.jpg

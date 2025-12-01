@@ -1,7 +1,7 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: "2024-10-10"
-publishDate: "2024-10-10"
+date: ""
+publishDate: ""
 description: Annual event presenting the Jean Monnet Module to wider audience
 draft: false
 image: images/events/event-4.jpg

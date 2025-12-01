@@ -1,7 +1,7 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: "2024-10-15"
-publishDate: "2024-10-15"
+date: ""
+publishDate: ""
 description: Women participation in STEM discussion during Erasmus Days
 draft: false
 image: images/events/event-3.jpg

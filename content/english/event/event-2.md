@@ -1,7 +1,7 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: "2022-12-20"
-publishDate: "2022-12-20"
+date: ""
+publishDate: ""
 description: First course organized at PTU since project launch
 draft: false
 image: images/events/event-2.jpg
