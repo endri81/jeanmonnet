@@ -7,12 +7,11 @@ draft: false
 duration: 14 hours each year
 image: images/courses/course-2.jpg
 teacher: Joan Jani
-title: Gaining experience in automated Electronic Design Systems based on Micro controllers 
+title: "Gaining experience in automated Electronic Design Systems based on Microcontrollers"
 type: course
 weekly: 03 hours
 ---
 
-
 ### About serie of seminars
 
-2.	Each year, Prof. Joan Jani conducts a series of seminars “Gaining experience in automated Electronic Design Systems based on Microcontrollers’. These seminars have introduced EU practices by examining specific case studies, particularly through Arduino and Python programming. 
+Each year, Prof. Joan Jani conducts a series of seminars "Gaining experience in automated Electronic Design Systems based on Microcontrollers". These seminars have introduced EU practices by examining specific case studies, particularly through Arduino and Python programming.
