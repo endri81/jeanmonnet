@@ -5,7 +5,7 @@ date: "2019-07-06T15:27:17+06:00"
 description: Innovative STEM teaching practices in Albania towards European Integration
 draft: false
 duration: 10 hours each year
-image: images/courses/course-3.jpg
+image: images/courses/meli.jpeg
 teacher: Meljana Bregu
 title: "Introducing EU and best practices and policies on STEM"
 type: course
