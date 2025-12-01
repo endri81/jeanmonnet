@@ -1,9 +1,8 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-description: Download course materials and resources
+description: ISTA-EU | Innovative STEM teaching practices in Albania towards European Integration
 draft: false
 title: Resources
-type: pages
 ---
 
 ## Course Materials
