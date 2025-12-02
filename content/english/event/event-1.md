@@ -1,7 +1,7 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: ""
-publishDate: ""
+date: 
+publishDate: 
 description: Launch of the three-year Erasmus+ project ISTA-EU
 draft: false
 image: images/events/im1.jpg
