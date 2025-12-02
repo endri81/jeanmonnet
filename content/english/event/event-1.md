@@ -1,6 +1,6 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-date: 
+date: "22-11-2022"
 publishDate: 
 description: Launch of the three-year Erasmus+ project ISTA-EU
 draft: false
